@@ -1,13 +1,15 @@
-# Sample Hardhat Project
+# Road To Web3 Lesson 3 repo
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This repo contains both the smart contract and the frontend of the third lesson of the Alchemy Road To Web3 course. 
 
-Try running some of the following tasks:
+setting things up is quite easy.
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+clone the repo: 
+run `npm install`
+
+this will install all of the dependencies.
+
+rename `.env.example` to `.env`
+
+follow this guide to learn how to work your way around the project: https://docs.alchemy.com/alchemy/road-to-web3/weekly-learning-challenges/3.-how-to-make-nfts-with-on-chain-metadata-hardhat-and-javascript#get-free-matic-to-deploy-your-nfts-smart-contract
+
